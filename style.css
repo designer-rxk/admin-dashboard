@@ -3,6 +3,7 @@
     --color-primary: #7380ec;
     --color-danger: #ff7782;
     --color-warning: #ffbb55;
+    --color-success: #55ff6c;
     --color-white: #fff;
     --color-info-dark: #7d8da1;
     --color-info-light: #dce1eb;
@@ -28,7 +29,7 @@
     --color-white: #202528;
     --color-dark: #edeffd;
     --color-dark-variant: #a3bdcc;
-    --color-light: rgba(0,0,0,0.4);
+    --color-light: rgba(0, 0, 0, 0.4);
     --box-shadow: 0 2rem 3rem var(--color-light);
 }
 /* MAIN STYLES */
